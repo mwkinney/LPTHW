@@ -1,1 +1,1 @@
-LPTHW
+Files from when I worked through Learn Python the Hard Way by Zed Shaw
